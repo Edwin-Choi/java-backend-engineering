@@ -1,2 +1,2 @@
 # java-backend-engineering
-Journey of learning Java 
+Recorded journey of learning Java and backend Engineering
