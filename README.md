@@ -1,2 +1,5 @@
 # java-backend-engineering
-Recorded journey of learning Java and backend Engineering
+Have been doing backend systems development in Java in consulting.
+Recording my journey of revision and learning Java backend Engineering as well as newer concepts or fullstack engineering in future with different architectures.
+
+Day 1: 
